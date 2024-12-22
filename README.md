@@ -8,19 +8,22 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on buildin
 
 ## 🌍 About Me
 
-<p align="left">
-  <ul>
-    <li>🌱 I'm currently learning <strong>Full Stack Development</strong>.</li>
-    <li>👨‍💻 I specialize in <strong>Mobile Development</strong> using <strong>Flutter</strong> & <strong>React Native</strong>.</li>
-    <li>💡 Passionate about <strong>Web Design</strong> and <strong>UI/UX</strong>.</li>
-    <li>💬 Open to collaborations on exciting projects.</li>
-    <li>🎯 Always striving to improve and learn new skills.</li>
-  </ul>
-</p>
-
-<p align="right">
-  <img src="https://via.placeholder.com/200" alt="About Me Image" width="200" height="200"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🌱 I'm currently learning <strong>Full Stack Development</strong>.</li>
+        <li>👨‍💻 I specialize in <strong>Mobile Development</strong> using <strong>Flutter</strong> & <strong>React Native</strong>.</li>
+        <li>💡 Passionate about <strong>Web Design</strong> and <strong>UI/UX</strong>.</li>
+        <li>💬 Open to collaborations on exciting projects.</li>
+        <li>🎯 Always striving to improve and learn new skills.</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://via.placeholder.com/200" alt="About Me Image" width="200" height="200" />
+    </td>
+  </tr>
+</table>
 
 ---
 
