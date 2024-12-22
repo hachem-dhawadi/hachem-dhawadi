@@ -4,13 +4,20 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on buildin
 
 ---
 
+## 🌍 About Me
+
+- 🌱 I'm currently learning **Full Stack Development**.
+- 👨‍💻 I specialize in **Mobile Development** using **Flutter** & **React Native**.
+- 💡 Passionate about **Web Design** and **UI/UX**.
+- 💬 Open to collaborations on exciting projects.
+- 🎯 Always striving to improve and learn new skills.
+
+---
+
 ## 🌱 Currently Learning and Exploring
 
 - **Web Development**: React, Angular, Node.js, and Express
 - **Mobile Development**: Flutter & React Native
-- **Backend Technologies**: Firebase, MongoDB, MySQL
-- **Cloud & Big Data**: Firebase, Hadoop, Apache Hive
-- **Design & UI/UX**: Figma, Bootstrap, Tailwind CSS
 
 ---
 
@@ -59,16 +66,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on buildin
   <a href="https://fb.com/hachem.dhawadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
   <a href="https://instagram.com/hachem_dhawadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
-
----
-
-## 🌍 About Me
-
-- 🌱 I'm currently learning **Full Stack Development**.
-- 👨‍💻 I specialize in **Mobile Development** using **Flutter** & **React Native**.
-- 💡 Passionate about **Web Design** and **UI/UX**.
-- 💬 Open to collaborations on exciting projects.
-- 🎯 Always striving to improve and learn new skills.
 
 ---
 
