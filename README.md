@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on buildin
         <li>🎯 Always striving to improve and learn new skills.</li>
       </ul>
     </td>
-    <td style="padding-left: 20px; vertical-align: top;">
+    <td style="padding-left: 80px; vertical-align: top;">
       <img src="https://via.placeholder.com/200" alt="About Me Image" width="200" height="200" />
     </td>
   </tr>
