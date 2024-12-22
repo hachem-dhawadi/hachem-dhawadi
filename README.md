@@ -1,4 +1,5 @@
 # ![MasterHead](https://www.bleepstatic.com/content/hl-images/2019/10/28/programming-header.jpg)
+<img src="https://www.bleepstatic.com/content/hl-images/2019/10/28/programming-header.jpg" alt="MasterHead" height="150">
 
 # Hi there, I'm Hachem Dhawadi 👋
 
