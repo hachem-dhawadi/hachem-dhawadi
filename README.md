@@ -1,3 +1,5 @@
+# ![Banner](https://via.placeholder.com/1200x300.png?text=Your+Custom+Banner)
+
 # Hi there, I'm Hachem Dhawadi 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a focus on building dynamic web and mobile applications. Here you'll find a variety of projects that reflect my skills and interests.
@@ -6,13 +8,22 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on buildin
 
 ## 🌍 About Me
 
-- 🌱 I'm currently learning **Full Stack Development**.
-- 👨‍💻 I specialize in **Mobile Development** using **Flutter** & **React Native**.
-- 💡 Passionate about **Web Design** and **UI/UX**.
-- 💬 Open to collaborations on exciting projects.
-- 🎯 Always striving to improve and learn new skills.
+<p align="left">
+  <ul>
+    <li>🌱 I'm currently learning <strong>Full Stack Development</strong>.</li>
+    <li>👨‍💻 I specialize in <strong>Mobile Development</strong> using <strong>Flutter</strong> & <strong>React Native</strong>.</li>
+    <li>💡 Passionate about <strong>Web Design</strong> and <strong>UI/UX</strong>.</li>
+    <li>💬 Open to collaborations on exciting projects.</li>
+    <li>🎯 Always striving to improve and learn new skills.</li>
+  </ul>
+</p>
+
+<p align="right">
+  <img src="https://via.placeholder.com/200" alt="About Me Image" width="200" height="200"/>
+</p>
 
 ---
+
 
 ## 🌱 Currently Learning and Exploring
 
