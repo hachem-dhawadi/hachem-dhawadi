@@ -2,7 +2,7 @@
 
 # Hi there, I'm Hachem Dhawadi 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a focus on building dynamic web and mobile applications. Here you'll find a variety of projects that reflect my skills and interests.
+Welcome to my GitHub profile! I'm a passionate developer with a focus on building dynamic web and mobile applications. I am also deeply passionate about robotics development, continually exploring innovative ways to integrate cutting-edge technologies. Here you'll find a variety of projects that reflect my skills and interests in web, mobile, and robotics development.
 
 ---
 
@@ -12,9 +12,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on buildin
   <tr>
     <td style="vertical-align: top;">
       <ul>
-        <li>🌱 I'm currently learning <strong>Full Stack Development</strong>.</li>
+        <li>📚 I'm currently learning <strong>Full Stack Development</strong>.</li>
         <li>👨‍💻 I specialize in <strong>Mobile Development</strong> using <strong>Flutter</strong> & <strong>React Native</strong>.</li>
-        <li>💡 Passionate about <strong>Web Design</strong> and <strong>UI/UX</strong>.</li>
+        <li>🤖 Passionate about <strong>Robotics</strong> </li>
         <li>💬 Open to collaborations on exciting projects.</li>
         <li>🎯 Always striving to improve and learn new skills.</li>
       </ul>
@@ -29,11 +29,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on buildin
 
 
 
-## 🌱 Currently Learning and Exploring
+## 📘 Currently Learning and Exploring
 
 - **Web Development**: React, Angular, Node.js, and Express
 - **Mobile Development**: Flutter & React Native
-
+- **Robotics Developmentt**: Arduino programming language
 ---
 
 ## 🔧 Languages and Tools
