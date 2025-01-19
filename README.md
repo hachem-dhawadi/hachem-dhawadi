@@ -92,8 +92,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on buildin
 
 ## 📊 My Top Repositories
 
-- [Project 1](https://github.com/hachem-dhawadi/project1) - Short description of your project.
-- [Project 2](https://github.com/hachem-dhawadi/project2) - Short description of your project.
+- [Essaf-Web](https://github.com/hachem-dhawadi/Frontend-Web-Development-React.js) - Short description of your project.
+- [Essaf-Mobile](https://github.com/hachem-dhawadi/Frontend-Mobile-Development-React-Native) - Short description of your project.
+- [Essaf-Backend](https://github.com/hachem-dhawadi/Backend-Development-Laravel-Essaf-App) - Short description of your project.
 
 ---
 
